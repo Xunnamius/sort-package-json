@@ -224,6 +224,7 @@ const fields = [
       'host',
     ]),
   },
+  { key: 'expect-env', over: sortObject },
   { key: 'scripts', over: sortScripts },
   { key: 'betterScripts', over: sortScripts },
   /* vscode */ { key: 'contributes', over: sortObject },

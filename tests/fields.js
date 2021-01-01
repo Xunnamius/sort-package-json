@@ -50,6 +50,7 @@ for (const field of [
   'contributes',
   'commitlint',
   'config',
+  'expect-env',
   'nodemonConfig',
   'browserify',
   'babel',
